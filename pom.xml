@@ -19,6 +19,9 @@
         <module>NativeConfigServer</module>
         <module>NativeConfigClient</module>
         <module>configserver</module>
+        <module>configclient</module>
+        <module>zipkin</module>
+        <module>zipkinclient</module>
     </modules>
 
     <parent>
